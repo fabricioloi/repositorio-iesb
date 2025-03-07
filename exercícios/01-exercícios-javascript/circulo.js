@@ -1,0 +1,1 @@
+export const areaCirculo = (raio) => Math.PI * raio * raio;
